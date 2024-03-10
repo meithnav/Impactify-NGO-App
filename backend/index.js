@@ -18,7 +18,7 @@ mongoose
   app.use(
     cors({
       // origin: ["https://cs-130-three.vercel.app/" , "https://cs-130-ngo.vercel.app/", "http://localhost:4000", "http://localhost:3000", "*"],
-      origin: "https://cs-130-three.vercel.app",
+      origin: "*",
       methods: ["GET", "POST", "PUT", "DELETE"],
       credentials: true,
     })
