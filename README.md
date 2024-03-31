@@ -1,3 +1,8 @@
+# Impactify
+
+Our platform serves as a catalyst for change, empowering verified nonprofits to post events, launch fund-raiser campaigns, and request logistical support for their initiatives, while individuals and other organizations could contribute through donations and volunteer work.We even incorporate features allowing nonprofits to raise awareness through blog posts and media support. To encourage participation we have introduced a leadership board to incentivize volunteerism and enhance user engagement and reward the top performers with goodies and in-kind vouchers. We seek to leverage sponsorships from corporations to ensure the platform's self-sustainability.
+
+
 # Impactify User Manual
 
 Welcome to the user manual for Impactify. This guide will assist you in installing, setting up, and using the application effectively.
